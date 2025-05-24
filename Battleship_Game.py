@@ -1,8 +1,3 @@
-# Errita Xu
-# December 8, 2021
-# A6 Functions
-# To simulate battleship (computer vs. player) with strategy using functions
-
 import random
 import math
 
